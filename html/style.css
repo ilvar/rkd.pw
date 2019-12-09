@@ -430,3 +430,11 @@ section:last-child {
     -moz-animation-delay: 0, 0.5s;
     animation-delay: 0, 0.5s;
 }
+
+.footer {
+    text-align: center;
+}
+
+.footer a {
+    color: #9999CC;
+}
